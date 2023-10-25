@@ -17,7 +17,7 @@ OpenChain offers a comprehensive solution for managing and selling digital conte
 In summary, OpenChain simplifies content distribution, ensures transparency, and facilitates secure transactions within a decentralized ecosystem, benefitting both content creators and consumers.
 
 ## Structure of the Repository
-1. [`OpenChain.sol`]() - Main code containing the smart contract used in OpenChain
+1. [`OpenChain.sol`](https://github.com/fromjyce/OpenChain/blob/main/OpenChain.sol) - Main code containing the smart contract used in OpenChain
 2. [`OpenChain.pdf`]() - A PDF file explains the overview of OpenChain
 
 ## Running of the Programs
