@@ -18,7 +18,7 @@ In summary, OpenChain simplifies content distribution, ensures transparency, and
 
 ## Structure of the Repository
 1. [`OpenChain.sol`](https://github.com/fromjyce/OpenChain/blob/main/OpenChain.sol) - Main code containing the smart contract used in OpenChain
-2. [`OpenChain.pdf`]() - A PDF file explains the overview of OpenChain
+2. [`OpenChain_Presentation.pdf`](https://github.com/fromjyce/OpenChain/blob/main/OpenChain_Presentation.pdf) - A PDF file explains the overview of OpenChain
 
 ## Running of the Programs
 All the Solidity programs were run in the online IDE called Remix.
